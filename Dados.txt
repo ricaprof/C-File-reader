@@ -1,0 +1,22 @@
+1 911 15 
+3 Boxster 20
+10 Golf 54
+11 Gol 123
+5 Mustang 10
+6 F-Type 23
+12 Audi-A4 230
+51 Audi-A3 290
+16 Ford-Ka 140
+2 Cayman 12
+41 Fox 341
+18 Duster 19
+194 Sandero 13
+20 Up 31
+14 Fiesta 143
+15 GLA 120
+4 Taycan 12
+7 M3 32
+8 Corvette 19
+9 Camaro 31
+21 Voyage 15
+Precisa ter os 3 dados. Se não tiver, não é contado como linha
